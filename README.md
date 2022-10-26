@@ -1,1 +1,1 @@
-# eather-forecasting-Arduino-UNO-
+# Weather-forecasting-Arduino-UNO-
